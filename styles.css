@@ -1,0 +1,62 @@
+body {
+  background-image: url("img/interstellar.jpg");
+  background-color: black;
+  height: 1000px;
+  background-position: bottom;
+  color: white
+}
+
+p {
+  color: white;
+  font-size: 1.2rem;
+  background-color: rgba(1,1,1,0.65);
+  margin: 0px;
+  font-family: Verdana;
+}
+
+h1 {
+  color: white;
+  left: 400px;
+  font-size: 1.7rem;
+  font-family: Verdana;
+  background-color: rgba(1,1,1,0.65);
+
+}
+
+#titleheader  {
+  font-size: 1.7rem;
+  position: absolute;
+  border: 5px solid black;
+  top: 320px;
+  left: 400px;
+  text-align: center;
+  font-family: Verdana;
+}
+
+#interstellar2 {
+  position: absolute;
+  left: 440px;
+  top: 75px;
+  height: auto;
+  width: 500px;
+  border: 5px solid black;
+}
+
+#header {
+  font-size: 1.7rem;
+  position: absolute;
+  border: 5px solid black;
+  top: 320px;
+  left: 400px;
+  text-align: left;
+  font-family: Verdana;
+}
+
+#text1 {
+  position: relative;
+  border: 5px solid black;
+  width: 600px;
+  height: 500px;
+  outline: inherit;
+  font-family: Verdana;
+}
